@@ -11,6 +11,9 @@ fastapi = {extras = ["standard"], version = "^0.115.12"}
 psycopg = {extras = ["binary"], version = "^3.2.9"}
 websockets = "^15.0.1"
 python-multipart = "^0.0.20"
+pytest = "^8.4.0"
+pytest-asyncio = "^1.0.0"
+httpx = "^0.28.1"
 
 
 [build-system]
